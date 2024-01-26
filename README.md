@@ -1,7 +1,7 @@
 # Projeto Final - Módulo Banco de Dados (PostgreSQL)
 
 ## Equipe
-Equipe: Deyse Ribeiro, Dirce Mitiko, Gerson. 
+Equipe: Deyse Ribeiro, Dirce Mitiko, Gerson, Nicolau. 
 
 ## Descrição do Projeto
 O projeto final do módulo de Banco de Dados PostgreSQL 
